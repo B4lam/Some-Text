@@ -6,3 +6,7 @@ Server - is server software, or hardware dedicated to running said software, tha
 Static Website - pages are pre-rendered.
 
 Dynamic Website - pages are rendered on the server. 
+
+Fish Facts 
+Fish have gills that extract oxygen from the water around them.
+Fish are vertebrate animals that live in the water
